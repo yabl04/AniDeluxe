@@ -87,7 +87,7 @@ export const Layout = () => {
               >
                 <span className="text-primary-500 text-3xl">✦</span>
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-primary-400 to-primary-600">
-                  AniDeluxe
+                  AnimeDeluxe
                 </span>
               </NavLink>
             </div>
