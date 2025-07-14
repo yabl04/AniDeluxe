@@ -14,7 +14,7 @@ export const Footer = () => {
               to="/"
               className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-primary-600"
             >
-              AniDeluxe
+              AnimeDeluxe
             </NavLink>
             <p className="text-dark-200 leading-relaxed">
               Удобный способ смотреть аниме онлайн бесплатно. Большая коллекция
